@@ -1,0 +1,10 @@
+* bitfield-schema
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://bitbucket.org/swizard/bitfield-schema.git   |
+| commit  |   |
+| systems | bitfield-schema |
+|---------+-------------------------------------------|
+
