@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://bitbucket.org/swizard/bitfield-schema.git   |
-| commit  |   |
-| systems | bitfield-schema |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------|
+| source  | git:https://bitbucket.org/swizard/bitfield-schema.git |
+| commit  | a9bef10                                               |
+| systems | bitfield-schema                                       |
+|---------+-------------------------------------------------------|
